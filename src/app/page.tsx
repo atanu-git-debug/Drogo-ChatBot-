@@ -241,7 +241,7 @@ const ChatBot: React.FC = () => {
              disabled={isTyping}
           >
             <img
-              src="/paper-plane.png"
+              src="./paper-plane.png"
               alt="Send"
               className="w-5 h-5"
             />
