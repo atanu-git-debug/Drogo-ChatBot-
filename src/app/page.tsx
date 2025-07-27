@@ -240,11 +240,7 @@ const ChatBot: React.FC = () => {
             className="bg-green-500 hover:bg-green-600 rounded-full p-2 text-white disabled:opacity-50"
              disabled={isTyping}
           >
-            <img
-              src="./paper-plane.png"
-              alt="Send"
-              className="w-5 h-5"
-            />
+            send
           </Button>
 
               </form>
